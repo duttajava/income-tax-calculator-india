@@ -49,7 +49,7 @@ Deactivate the plugin through 'Plugins' menu and Delete. This plugin do not use 
 
 == Screenshots ==
 
-http://wbxpress.com/wp-content/uploads/2013/07/Screenshot01.png
+1. Default appearance
 
 == Changelog ==
 
