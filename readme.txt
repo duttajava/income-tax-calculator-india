@@ -49,7 +49,7 @@ Deactivate the plugin through 'Plugins' menu and Delete. This plugin do not use 
 
 == Screenshots ==
 
-http://wbxpress.com/wp-content/uploads/2013/07/Screenshot01.png
+<img src="http://wbxpress.com/wp-content/uploads/2013/07/Screenshot01.png" alt="Smiley face" width="566" height="455">
 
 == Changelog ==
 
