@@ -23,7 +23,7 @@ For a demo visit: http://wbxpress.com/income-tax-calculator/
 1. Upload `Taxcalculator.php and taxcal.php` to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Create a New Post/Page and name it "Income Tax Calculator".
-4. Select "Text" view and type "[*it_cal*]" without quote.
+4. Select "Text" view and type "[\*it_cal\*]" without quote.
 5. Publish the Post/Page.
 6. View the Post/Page in your Browser. You are done.
 
@@ -35,7 +35,7 @@ There is no settings needed to use this calculator. Everything is inbuilt and co
 
 = How to use this Plugin?  =
 
-To use this plugin you have to insert a short code [*it_cal*] in your post/page.
+To use this plugin you have to insert a short code [\*it_cal\*] in your post/page.
 
 
 = How can I be sure the calculation is correct?  =
@@ -49,7 +49,7 @@ Deactivate the plugin through 'Plugins' menu and Delete. This plugin do not use 
 
 == Screenshots ==
 
-<img src="http://wbxpress.com/wp-content/uploads/2013/07/Screenshot01.png" alt="Income Tax Calculator" width="566" height="455" />
+http://wbxpress.com/wp-content/uploads/2013/07/Screenshot01.png
 
 == Changelog ==
 
